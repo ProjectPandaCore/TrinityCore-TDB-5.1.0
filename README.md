@@ -25,7 +25,6 @@ It is completely open source; community involvement is highly encouraged.
 Need one of the following programs to pour database:
 
 + SQLyog
-+ Navicat
 
 
 ## Copyright (c)2015
