@@ -6,9 +6,6 @@ Data Base Mists of Pandaria 5.1.0 Build (16357)
 commit - No commit
 
 
-# Data Base
-
-
 ## Introduction
 
 Database emulator PandaCore. The basic version.
